@@ -1,6 +1,8 @@
 # ResearchAMSIProvider
 Simple AMSI Provider that writes input to tmp files
 
+> Project Settings are targetting ARM64, so make sure you've changed it before build
+
 ## Usage
 1. Register the COM object
 ```
